@@ -11,3 +11,9 @@
    ```bash
    pip install -r requirements.txt
    ```
+
+
+2. Execute
+   ```bash
+   python3 gio_bot2025.py
+   ```
